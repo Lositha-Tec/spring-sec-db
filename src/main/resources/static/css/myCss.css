@@ -1,0 +1,31 @@
+
+* {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Comic Sans", "Courier New",
+    georgia, helvetica, impact, "times new roman", "trebuchet ms", verdana,
+    "Iskoola Pota";
+    --error-color: #fa370d;
+}
+
+/* Main window- start*/
+body {
+    background-image: url(../img/mainwindow.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+/* for login form - start*/
+
+#loginBack {
+    background-image: url('../img/logging_back.jpeg');
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+    text-decoration: none;
+    color: #000121;
+}
